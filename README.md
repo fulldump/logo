@@ -4,7 +4,7 @@
 [![Go report card](http://goreportcard.com/badge/fulldump/logo)](https://goreportcard.com/report/fulldump/logo)
 [![GoDoc](https://godoc.org/github.com/fulldump/logo?status.svg)](https://godoc.org/github.com/fulldump/logo)
 
-<sup>Tested for Go 1.5, 1.6, 1.7</sup>
+<sup>Tested for Go 1.5, 1.6, 1.7, 1.8</sup>
 
 Loging for go
 
