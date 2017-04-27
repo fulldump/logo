@@ -1,0 +1,7 @@
+# Go
+pkg/
+src/
+coverage.out
+
+# IDEs
+.idea
